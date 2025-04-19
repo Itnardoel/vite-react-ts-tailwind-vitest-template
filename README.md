@@ -29,5 +29,5 @@ This is a base template for developing frontend applications using the following
    npm run dev
    ```
 
-   Your application should now be running at [http://localhost:3000](http://localhost:5173).
+   Your application should now be running at [http://localhost:5173](http://localhost:5173).
    
